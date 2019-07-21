@@ -21,6 +21,7 @@ In Matlab command line,
 >> compile
 
 ## Run the example
+In Matlab command line,
 >> example
   
 ## Contact
