@@ -1,7 +1,7 @@
 # colored-random-walk
 
 Implementation of the method proposed in the paper:   
-**[Constrained Local Graph Clustering by Colored Random Walk](https://dl.acm.org/citation.cfm?id=3313719)**
+**[Constrained Local Graph Clustering by Colored Random Walk](http://pike.psu.edu/publications/www19.pdf)**
 
 by Yaowei Yan, Yuchen Bian, Dongsheng Luo, Dongwon Lee and Xiang Zhang 
 Published at WWW'19, May 2019, San Francisco, USA
